@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "HorseTab",
+  "version": "1.0.0",
+  "description": "A friendly new tab plugin",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": ["storage"]
+}
